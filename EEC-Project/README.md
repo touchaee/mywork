@@ -11,4 +11,4 @@
 - [x] Design UI/UX
 - [ ] Leaning Django
 - [ ] Meeting with WHA Groups
-- [ ] Analyze the others 4 websites
+- [ ] Analyze 4 others websites
