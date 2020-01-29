@@ -2,12 +2,12 @@
 
 ---
 
-#### This is the 1st UI/UX Mockup
+#### :pushpin:This is the 1st UI/UX Mockup
 [UI/UX Mockup](https://github.com/touchaee/mywork/blob/master/EEC-Project/UI-UX-mock.pdf)
 
 ---
 
-#### TO DO LIST
+#### :pushpin:TO DO LIST
 - [x] Design UI/UX
 - [ ] Leaning Django
 - [ ] Meeting with WHA Groups
