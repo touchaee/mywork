@@ -7,7 +7,7 @@ This project is all about developing a website for foreign investors who want to
 #### :pushpin:This is the first UI/UX mockup to be presented to the board of director of WHA Group
 [UI/UX Mockup](https://github.com/touchaee/mywork/blob/master/EEC-Project/UI-UX-mock.pdf)
 
-#### Find pros & cons of others website
+#### Find the pros & cons of other 4 websites
 
 [BOI](https://www.boi.go.th/th/index/)
 
@@ -16,6 +16,9 @@ This project is all about developing a website for foreign investors who want to
 
 
 [EEC](https://www.eeco.or.th/)
+
+
+[THAICHAMBER](https://www.thaichamber.org/)
 
 ---
 
