@@ -38,4 +38,4 @@ Decided what framework will use to build the website?
 - [x] Design UI/UX
 - [ ] Leaning Django
 - [ ] Meeting with WHA Groups
-- [ ] Analyze 4 others websites
+- [ ] Analyze other 4 websites
