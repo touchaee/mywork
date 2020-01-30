@@ -1,9 +1,33 @@
-### THIS PROJECT IS ABOUT DEVELOPED A WEBSITE FOR FOREIGNER'S INVESTOR
+### EEC-Project
+This project is all about developing a website for foreign investors who want to invest in Thailand.
+
+---
+### Phase 1: UI/UX Design
+
+#### :pushpin:This is the first UI/UX mockup to be presented to the board of director of WHA Group
+[UI/UX Mockup](https://github.com/touchaee/mywork/blob/master/EEC-Project/UI-UX-mock.pdf)
+
+#### Find pros & cons of others website
+
+[BOI](https://www.boi.go.th/th/index/)
+
+
+[IEAT](https://www.ieat.go.th/)
+
+
+[EEC](https://www.eeco.or.th/)
 
 ---
 
-#### :pushpin:This is the 1st UI/UX Mockup
-[UI/UX Mockup](https://github.com/touchaee/mywork/blob/master/EEC-Project/UI-UX-mock.pdf)
+### Phase 2: Build up the website
+Decided what framework will use to build the website?
+- [ ] Wordpress
+- [ ] Django
+
+---
+
+### Phase 3: xxxx
+### Phase 4: xxxx
 
 ---
 
