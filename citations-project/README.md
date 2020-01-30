@@ -5,3 +5,8 @@ This project is to deal with the summarize citations problem which division of r
 
 ### Example of my work
 we have 3 of xlsx file and want to find the differences of one column (which is a cumulative sum over the month)
+<p align="center">
+  <img width="300" src="https://github.com/touchaee/mywork/blob/master/citations-project/picture/citations1.jpg">
+  <img width="300" src="https://github.com/touchaee/mywork/blob/master/citations-project/picture/citations2.jpg">
+  <img width="300" src="https://github.com/touchaee/mywork/blob/master/citations-project/picture/citations3.jpg">
+</p>
