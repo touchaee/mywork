@@ -1,4 +1,4 @@
-Date,Time,Temperature (F),Dew Point (F),Humidity (%),Wind,Wind Speed (mph),Wind Gust (mph),Pressure (in),Precip. (in),Condition
+date,Time,Temperature (F),Dew Point (F),Humidity (%),Wind,Wind Speed (mph),Wind Gust (mph),Pressure (in),Precip. (in),Condition
 2/1/2019,00:00:00,82,75,79,SSW,5,0,29.93,0,Fair
 2/1/2019,00:30:00,82,75,79,S,5,0,29.93,0,Fair
 2/1/2019,01:00:00,82,77,84,S,6,0,29.93,0,Fair
