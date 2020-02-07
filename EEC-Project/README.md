@@ -8,7 +8,7 @@ This project is all about developing a website for foreign investors who want to
 #### MOCKUP 1
 [UI/UX Mockup](https://github.com/touchaee/mywork/blob/master/EEC-Project/UI-UX-mock.pdf)
 #### MOCKUP 2
-[UI/UX Mockup]()
+[UI/UX Mockup](https://github.com/touchaee/mywork/blob/master/EEC-Project/EEC-Project.pdf)
 
 
 ---
