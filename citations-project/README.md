@@ -24,7 +24,8 @@ I developed a python software to solve this problem with multiple xlsx files and
 ### :pushpin: PHASE 2
 deal with the upcoming xlsx file and updated to result
 
-[This is my python to solve this problem]()
+[This is my python to solve this problem](https://github.com/touchaee/mywork/blob/master/citations-project/citation.ipynb)
+
 ---
 
 ### :pushpin: PHASE 3 (IN PROGRESS)
